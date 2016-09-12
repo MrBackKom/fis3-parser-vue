@@ -1,26 +1,26 @@
 {
   "name": "fis3-parser-vue",
-  "version": "0.3.0",
-  "description": "fis3 parser vue",
+  "version": "0.0.1",
+  "description": "rong parser vue",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/okoala/fis3-parser-vue.git"
+    "url": "git+https://github.com/MrBackKom/rong-parser-vue.git"
   },
   "keywords": [
-    "fis3",
+    "rong",
     "parser",
     "vue"
   ],
   "author": "Koala Huang <dapixp@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/okoala/fis3-parser-vue/issues"
+    "url": "https://github.com/MrBackKom/rong-parser-vue/issues"
   },
-  "homepage": "https://github.com/okoala/fis3-parser-vue#readme",
+  "homepage": "https://github.com/MrBackKom/rong-parser-vue#readme",
   "dependencies": {
     "vueify-sync": "^0.2.0"
   },
